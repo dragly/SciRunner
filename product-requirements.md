@@ -13,7 +13,7 @@ o Cache results based on parameter combination and software version
 x Tag all data from each run with an unique ID that can be used to look up and compare data at a later time, also useful to see variations between versions of the software in use
 x Create a nice GUI that allows easy access to results by parameter selection
 
-Possible extensions
--------------------
-
-Check possibility to use LazyRunner or reuse code from there.
+Good inspiration
+----------------
+LazyRunner: http://www.stat.washington.edu/~hoytak/code/lazyrunner/
+ModelDB: http://171.67.114.118/content/3/6/389.full.pdf 
